@@ -1,4 +1,4 @@
-#  
+#  Enhance ClickUp for macOS with ClickUp for macOS best Extension: version history & dark mode, the #1 extension. Includes version history and dark mode for a smoother experience.
 
 
 
